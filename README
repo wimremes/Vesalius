@@ -1,0 +1,16 @@
+(c) 2012 NRJ Security Comm. V
+
+Vesalius is an open source tool that combines honeypot
+technology with deep monitoring and data analysis thus
+turning it into a defensive intelligence tool.
+
+1. Vesalius develops its own presense based on it's environment.
+It will adapt its look and feel to legitimate sources in it's 
+direct vincinity. As it learns more about its surroundings, it 
+will blend into the infrastructure more.
+
+2. Vesalius acts as an high interaction honeypot. The ultimate
+goal is to keep the attacker around for as long as it can and
+at the same time provide it with unique, tainted data and flags.
+This will enable the user to track attackers over several who:q
+
